@@ -18,8 +18,8 @@ import * as icons from "@material-ui/icons";
 
 const config = {
   projectName: "İstanbul Sarrafiye v2.0",
-  baseApiUrl: "https://localhost:44370/",
-  // baseApiUrl: "https://api.istanbulsarrafiye.com/",
+  // baseApiUrl: "https://localhost:44370/",
+  baseApiUrl: "https://api.istanbulsarrafiye.com/",
   screenList: [
     {
       link: "",
